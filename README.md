@@ -12,6 +12,6 @@ Nesse projeto em que eu eu meu amigo Henrique, melhoramos o sistema de luminosid
 
 
 Link da Simulação Thinkercad:
+https://www.tinkercad.com/things/3EeryhDHwqB-sensor-de-temperatura-e-luminosidade
 
-Link do vídeo com a simulação:
 
